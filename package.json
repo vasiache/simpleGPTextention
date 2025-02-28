@@ -3,7 +3,11 @@
     "displayName": "My VS Code Extension",
     "description": "Расширение для отправки запросов на заданный URL с кастомными промтами и чат-окном.",
     "version": "0.0.1",
-    "publisher": "your-name",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vasiache/openGPTassistant"
+    },
+    "publisher": "Vasilii Chetvertukh",
     "engines": {
       "vscode": "^1.70.0"
     },
